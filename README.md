@@ -10,3 +10,16 @@ follow this procedure:
 1. Make changes to your project that you'd like to keep.
 2. When you have changes, tell git you're ready to commit by adding files to staging area using "git add filename"
 3. Create a checkpoint ("commit") using 'git commit -m "message about what you did" '
+
+
+## Adding Feature
+Features should be developed on branches.
+To create & switch to a branch, use the command.
+
+To switch to an existing branch, use
+
+'git switch branch_name'
+
+To list all branches, use
+
+'git branch'
